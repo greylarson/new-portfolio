@@ -1,0 +1,52 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="greylarson.com" resolutions="1x" timestamp="1518490532439">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_portfolio-item.css" crc="3998912667" ref="stickerbook:yearbook"/>
+    <file name="master_portfolio-filter.css" crc="3963489596" ref="portfolio:branding:print"/>
+    <file name="master_master.css" crc="4118279822" ref="index:stickerbook:about:portfolio:branding:print:contact:yearbook"/>
+    <file name="index.css" crc="3829745724" ref="index"/>
+    <file name="stickerbook.css" crc="364001333" ref="stickerbook"/>
+    <file name="about.css" crc="410813931" ref="about"/>
+    <file name="portfolio.css" crc="3961097938" ref="portfolio"/>
+    <file name="branding.css" crc="4145245959" ref="branding"/>
+    <file name="print.css" crc="4144819557" ref="print"/>
+    <file name="contact.css" crc="188585900" ref="contact"/>
+    <file name="yearbook.css" crc="364001333" ref="yearbook"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding"/>
+  </folder>
+  <folder name="images">
+    <file name="master-favicon.ico" crc="139738446" ref="index"/>
+    <file name="logo-light.svg" crc="4216910507" seo="true" ref="index:about:contact:portfolio:stickerbook:print:yearbook:branding">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="print" alt=""/>
+      <caption webpage="stickerbook" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="yearbook" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo-light_poster_.png" crc="3837959668" ref="index"/>
+  </folder>
+  <file name="index.html" crc="241116025" seo="true" mt="1518468885150" redirect="true"/>
+  <file name="about.html" crc="292494162" seo="true" mt="1518467151477" redirect="true"/>
+  <file name="contact.html" crc="411524286" seo="true" mt="1518467151477" redirect="true"/>
+  <file name="portfolio.html" crc="4143248990" seo="true" mt="1518468463262" redirect="true"/>
+  <file name="stickerbook.html" crc="3778800799" seo="true" mt="1518467151477" redirect="true"/>
+  <file name="print.html" crc="4114090356" seo="true" mt="1518468463262" redirect="true"/>
+  <file name="yearbook.html" crc="315485549" seo="true" mt="1518468856022" redirect="true"/>
+  <file name="branding.html" crc="3800822240" seo="true" mt="1518468863423" redirect="true"/>
+</manifest>
